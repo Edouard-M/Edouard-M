@@ -1,10 +1,11 @@
 ### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard-M&langs_count=6&hide_progress=true&hide=nothing&theme=dark&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard-M&langs_count=6&hide_progress=true&hide=nothing&theme=transparent&text_color=000000)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
-**Edouard-M/Edouard-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
