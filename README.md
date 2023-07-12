@@ -4,7 +4,7 @@
 I'm Edouard from France, and I do Full Stack Development. I really enjoy learning languages and frameworks like Django and React. I also enjoy algorithm and complex Backend in general. 
 
 ## Skills and Experience
-### Tech & Tools Preference 💻
+### Tech & Tools Preferences
 
 <img src="https://img.shields.io/badge/-Python-0879B9?style=flat&logo=python&logoColor=ffffff"><img src="https://img.shields.io/badge/-Django-003C2A?style=flat&logo=django&logoColor=ffffff">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -20,7 +20,7 @@ I'm Edouard from France, and I do Full Stack Development. I really enjoy learnin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard-M&langs_count=6&hide_progress=true&hide=nothing&theme=dark&text_color=FFFFFF)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-### You can find in me in the web 🌍
+### Relevant Links
 
 
 [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?)][website]
