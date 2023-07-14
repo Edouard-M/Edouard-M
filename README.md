@@ -1,4 +1,4 @@
-![Fullstack Developer](images/banner.jpg)
+![Fullstack Developer](images/banner_linkedin.png)
 
 # Edouard Mignien
 I'm Edouard from France, and I do Full Stack Development. I really enjoy learning languages and frameworks like Django and React. I also enjoy algorithm and complex Backend in general. 
