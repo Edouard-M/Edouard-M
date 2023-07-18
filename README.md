@@ -26,7 +26,7 @@ I'm Edouard from France, and I do Full Stack Development. I really enjoy learnin
 [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?)][website]
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 
-[website]: https://www.jet-flight.fr/
+[website]: https://www.edouard-mignien.fr/
 [linkedin]: https://www.linkedin.com/in/edouard-mignien/
 
 
