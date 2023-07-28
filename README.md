@@ -1,7 +1,13 @@
 ![Fullstack Developer](images/banner.png)
 
 # Edouard Mignien
-I'm Edouard from France, and I do Full Stack Development. I really enjoy learning languages and frameworks like Django and React. I also enjoy algorithm and complex Backend in general. 
+Hello !👋
+
+I'm **Edouard** from **France**, and I'm a **Full Stack software engineer**💻. I really enjoy learning languages and frameworks like **Django** and **React** (my most recent learning is Three.js I'm impressed by the amazing Frontend possibilities of this library). 
+
+I'm also passionate about **algorithms**, **Backend** and **API** in general but what is a great Backend or a great API without any User Interface ? This is the reason of my love for **Full Stack** development: **the possibility to create and sublimate great Backend structure**.✅ 
+
+> Please take a look at my portfolio website showcasing my projects and experiences: **https://edouard-mignien.fr**
 
 ## Skills and Experience
 ### Tech & Tools Preferences
@@ -20,8 +26,7 @@ I'm Edouard from France, and I do Full Stack Development. I really enjoy learnin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard-M&langs_count=6&hide_progress=true&hide=nothing&theme=dark&text_color=FFFFFF)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-### Relevant Links
-
+## Relevant Links
 
 [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?)][website]
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
@@ -29,6 +34,9 @@ I'm Edouard from France, and I do Full Stack Development. I really enjoy learnin
 [website]: https://www.edouard-mignien.fr/
 [linkedin]: https://www.linkedin.com/in/edouard-mignien/
 
+## 📫 How to reach me
+*  **EMail:** edouard.mignien@gmail.com
+*  (or by my Linkedin account above ⬆️)
 
 <!--
 Here are some ideas to get you started:
