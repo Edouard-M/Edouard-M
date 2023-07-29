@@ -1,7 +1,7 @@
 ![Fullstack Developer](images/banner.png)
 
 # Edouard Mignien
-Hello !👋
+Hello ! 👋
 
 I'm **Edouard** from **France**, and I'm a **Full Stack software engineer**💻. I really enjoy learning languages and frameworks like **Django** and **React** (my most recent learning is Three.js I'm impressed by the amazing Frontend possibilities of this library). 
 
