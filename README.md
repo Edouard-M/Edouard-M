@@ -7,7 +7,7 @@ I'm **Edouard** from **France**, and I'm a **Full Stack software engineer**💻.
 
 I'm also passionate about **algorithms**, **Backend** and **API** in general but what is a great Backend or a great API without any User Interface ? This is the reason of my love for **Full Stack** development: **the possibility to create and sublimate great Backend structure**.✅ 
 
-> Please take a look at my portfolio website showcasing my projects and experiences: **https://edouard-mignien.fr**
+> Please take a look at my portfolio website showcasing my projects and experiences: **https://edouardmignien.com**
 
 ## Skills and Experience
 ### Tech & Tools Preferences
