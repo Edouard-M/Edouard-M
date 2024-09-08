@@ -31,7 +31,7 @@ I'm also passionate about **algorithms**, **Backend** and **API** in general but
 [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?)][website]
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 
-[website]: https://www.edouard-mignien.fr/
+[website]: https://www.edouardmignien.com/
 [linkedin]: https://www.linkedin.com/in/edouard-mignien/
 
 ## 📫 How to reach me
